@@ -1,0 +1,2 @@
+{"text": "Maximus Moses said 'this is your last and final warning' after I reported a gas hazard.", "entities": [{"start": 0, "end": 14, "label": "PERSON"}, {"start": 26, "end": 60, "label": "THREAT"}, {"start": 73, "end": 82, "label": "HAZARD"}]}
+{"text": "PHMSA governs all systems like the one at 4710 Lake Wildcat Road.", "entities": [{"start": 0, "end": 5, "label": "AGENCY"}, {"start": 40, "end": 68, "label": "LOCATION"}]}
